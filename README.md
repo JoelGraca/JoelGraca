@@ -28,11 +28,12 @@
 </div>
 <hr>
 <div> 
-   <a href="https://www.instagram.com/watson_santos1/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/watson_santos1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/watson-santos-9684111b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:watsontavares72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/watson.tavares.31/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    <a href="https://tiktok.com/@joel_graca20" target="_blank"><img src="https://img.shields.io/badge/-Tiktok-%23333?style=for-the-badge&logo=Tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/GracaJoelson?t=wCTwRiGcUpgCzxCQMHWAag&s=09telegram" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23E4405F?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joel-da-gra%C3%A7a-69a8bb289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "joeldagraca076@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+
  
 </div>
 
