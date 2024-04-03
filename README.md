@@ -7,7 +7,7 @@
 - 🌱 Estudando JavaScript, Reat.js, Node.js e PostgreSQL
 - 👯 Contacte-me no email: joeldagraca076@gmail.com
 - 💬 Me faça perguntas sobre tecnológica e programação que estou ao seu dispor
-- 📫 Localização: Bairro Quilombo Distrito de Água Grande - São Tomé e Príncipe 
+- 📫 Localização: Bairro Quilombo Distrito de Água Grande - São Tomé
 - 😄 Atualmente estou trabalhando em casa ⚒️
 
 
